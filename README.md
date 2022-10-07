@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-##
+## Url [Live site](https://thesomero.github.io/qr-code-component/)
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
